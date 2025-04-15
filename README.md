@@ -86,8 +86,7 @@ Deberías ver en la consola algo como:
 
 ## ✍️ Autor
 
-Nombre del alumno – Comisión XYZ
-
+A. Nicolas Burda - DWN4AP
 ---
 
 ## 📝 Licencia
